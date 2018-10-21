@@ -1,0 +1,30 @@
+# Site settings
+title: Spring Petclinic community
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: UA-127875724-1
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-relative-links
+  - jekyll-babel
+  - jekyll-readme-index
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea
+  - docs/backup
+
+github: "https://github.com/spring-petclinic/spring-petclinic.github.io/blob/master/docs/"
+
+defaults:
+  -
+    scope:
+      path: "docs"
+    values:
+      layout: "docs"
+

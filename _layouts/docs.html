@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div id="docs" class="site-width">
+
+  <div class="docs-menu">
+
+    {% include docs-project-menu.html project=currentProject tag=currentVersion %}
+
+    <div class="docs-menu-filler"></div>
+
+  </div>
+
+  <div class="docs-content">
+
+    <div class="docs-actions">
+
+      <a class="mdl-button mdl-js-button mdl-button--raised mdl-button--accent" href="{{site.github}}{{page.name}}">Edit on Github</a>
+
+    </div>
+
+    {{ content }}
+
+  </div>
+
+</div>
