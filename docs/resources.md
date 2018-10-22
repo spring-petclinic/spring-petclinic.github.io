@@ -24,3 +24,8 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 * [Migrating a Java Spring Framework Application to Windows Azure](https://azure.microsoft.com/fr-fr/blog/migrating-a-java-spring-framework-application-to-windows-azure/) (Gregory Leake from Microsoft)
 * [Run Spring Pet Clinic with Cloud SQL on Google App Engine Flexible Environment](https://cloud.google.com/community/tutorials/run-spring-petclinic-on-app-engine-cloudsql) (Jisha Abubaker from Google)
 * [Spring Pet Clinic using Cloud SQL](https://codelabs.developers.google.com/codelabs/cloud-spring-petclinic-cloudsql/index.html) (Google)
+
+## Application Performance Management (APM)
+
+* [AppDynamics: Java Spring PetClinic and MySQL configured for monitoring](https://fabianlee.org/2017/01/15/appdynamics-java-spring-petclinic-and-mysql-configured-for-monitoring/) (Fabian Lee)
+* [Usage of inspectT in Spring PetClinic Microservices](https://inspectit-performance.atlassian.net/wiki/spaces/DOC18/pages/93008976/Spring+PetClinic+Microservices) (Christian Vögele)
