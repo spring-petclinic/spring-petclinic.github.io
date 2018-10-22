@@ -18,6 +18,7 @@ exclude:
   - Gemfile.lock
   - .idea
   - docs/backup
+  - vendor/
 
 github: "https://github.com/spring-petclinic/spring-petclinic.github.io/blob/master/docs/"
 
