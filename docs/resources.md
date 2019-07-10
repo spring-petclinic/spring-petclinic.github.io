@@ -24,8 +24,15 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 * [Migrating a Java Spring Framework Application to Windows Azure](https://azure.microsoft.com/fr-fr/blog/migrating-a-java-spring-framework-application-to-windows-azure/) (Gregory Leake from Microsoft)
 * [Run Spring Pet Clinic with Cloud SQL on Google App Engine Flexible Environment](https://cloud.google.com/community/tutorials/run-spring-petclinic-on-app-engine-cloudsql) (Jisha Abubaker from Google)
 * [Spring Pet Clinic using Cloud SQL](https://codelabs.developers.google.com/codelabs/cloud-spring-petclinic-cloudsql/index.html) (Google)
+* [Spring into Kubernetes - Part 1](https://tech.paulcz.net/blog/spring-into-kubernetes-part-1/) (Paul Czarkowski from IBM)
+* [Spring into Kubernetes - Deploying with Helm](https://tech.paulcz.net/blog/spring-into-kubernetes-part-2/) (Paul Czarkowski from IBM)
 
 ## Application Performance Management (APM)
 
 * [AppDynamics: Java Spring PetClinic and MySQL configured for monitoring](https://fabianlee.org/2017/01/15/appdynamics-java-spring-petclinic-and-mysql-configured-for-monitoring/) (Fabian Lee)
 * [Usage of inspectT in Spring PetClinic Microservices](https://inspectit-performance.atlassian.net/wiki/spaces/DOC18/pages/93008976/Spring+PetClinic+Microservices) (Christian Vögele)
+
+## Tuning
+
+* [Tuning Spring Petclinic JPA and Hibernate configuration with Hypersistence Optimizer](https://vladmihalcea.com/spring-petclinic-hypersistence-optimizer/) (Vlad Mihalcea)
+* [Memory footprint of the JVM](https://spring.io/blog/2019/03/11/memory-footprint-of-the-jvm) (Andy Wilkinson from Pivotal)
