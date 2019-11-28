@@ -16,7 +16,6 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 
 ## General articles 
 
-* [Improving the performance of the Spring-Petclinic sample application](http://blog.ippon.fr/2013/03/11/improving-the-performance-of-the-spring-petclinic-sample-application-part-1-of-5/) (Julien Dubois from Ippon)
 * [Quickstart to shows how to run the Spring PetClinic Application in Red Hat JBoss EAP](https://developers.redhat.com/quickstarts/eap/spring-petclinic/) (Ken Krebs, Juergen Hoeller, Rob Harrop, Costin Leau, Sam Brannen, Scott Andrews)
 
 ## Cloud deployment
@@ -34,5 +33,11 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 
 ## Tuning
 
+* [Improving the performance of the Spring-Petclinic sample application](http://blog.ippon.fr/2013/03/11/improving-the-performance-of-the-spring-petclinic-sample-application-part-1-of-5/) (Julien Dubois from Ippon)
 * [Tuning Spring Petclinic JPA and Hibernate configuration with Hypersistence Optimizer](https://vladmihalcea.com/spring-petclinic-hypersistence-optimizer/) (Vlad Mihalcea)
 * [Memory footprint of the JVM](https://spring.io/blog/2019/03/11/memory-footprint-of-the-jvm) (Andy Wilkinson from Pivotal)
+* [Memory wasted by Spring Boot PetClinic application](https://jaxenter.com/memory-spring-boot-164620.html) (Ram Lakshmanan)
+
+# Spring stack
+
+* [Désendettement de Spring Cloud Netflix](https://javaetmoi.com/2019/11/desendettement-de-spring-cloud-netflix/) - french (Antoine Rey)
