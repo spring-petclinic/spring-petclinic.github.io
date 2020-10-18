@@ -26,6 +26,7 @@ All forks are centralized to the special GitHub org [spring-petclinic](https://g
 |[spring-petclinic-data-jdbc]     | ![stars](https://img.shields.io/github/stars/spring-petclinic/spring-petclinic-data-jdbc.svg?style=social&label=Star)     | Branch of the official Spring PetClinic application with domain & persistence layer built with Spring Data JDBC instead of Spring Data JPA | ![](../images/icon-spring-boot.png)     |
 |[spring-petclinic-cloud]         | ![stars](https://img.shields.io/github/stars/spring-petclinic/spring-petclinic-cloud.svg?style=social&label=Star)         | Fork of the [spring-petclinic-microservices] project packaged to be deployed on several Cloud platforms: Kubernetes and Cloud Foundry      | ![](../images/icon-kubernetes.png)      |
 |[spring-petclinic-reactive]      | ![stars](https://img.shields.io/github/stars/spring-petclinic/spring-petclinic-reactive.svg?style=social&label=Star)      | Reactive version of Spring PetClinic sample application based on Spring Webflux and Cassandra                                              | ![](../images/icon-cassandra.png)       |
+|[spring-petclinic-mustache]      | ![stars](https://img.shields.io/github/stars/spring-petclinic/spring-petclinic-mustache.svg?style=social&label=Star)      | Classic Spring PetClinic with Mustache templates                                                                                           | ![](../images/icon-mustache.png)       |
 
 
 
@@ -42,5 +43,6 @@ All forks are centralized to the special GitHub org [spring-petclinic](https://g
 [spring-petclinic-rest]: https://github.com/spring-petclinic/spring-petclinic-rest
 [spring-petclinic-cloud]: https://github.com/spring-petclinic/spring-petclinic-cloud
 [spring-petclinic-reactive]: https://github.com/spring-petclinic/spring-petclinic-reactive
+[spring-petclinic-mustache]: https://github.com/spring-petclinic/spring-petclinic-mustache
 
 
