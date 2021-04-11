@@ -46,6 +46,14 @@ Preview the local Jekyll site in your web browser at http://localhost:4000.
 Simply commit your changes and do a git push.
 
 
+## Upgrade
+
+To updating the GitHub Pages gem:
+```
+bundle update github-pages
+```
+
+
 # Website preview
 
 ![Website screenshot](images/screenshot-website.png)
