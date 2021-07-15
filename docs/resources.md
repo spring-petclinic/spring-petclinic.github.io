@@ -26,6 +26,7 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 * [Spring Pet Clinic using Cloud SQL](https://codelabs.developers.google.com/codelabs/cloud-spring-petclinic-cloudsql/index.html) (Google)
 * [Spring into Kubernetes - Part 1](https://tech.paulcz.net/blog/spring-into-kubernetes-part-1/) (Paul Czarkowski from IBM)
 * [Spring into Kubernetes - Deploying with Helm](https://tech.paulcz.net/blog/spring-into-kubernetes-part-2/) (Paul Czarkowski from IBM)
+* [Spring Cloud Microservices on Kubernetes the easy way with Platform9](https://platform9.com/blog/spring-cloud-microservices-on-kubernetes-the-easy-way-with-platform9/) (David Dieruf from Platform9)
 
 ## Application Performance Management (APM)
 
