@@ -43,3 +43,7 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 # Spring stack
 
 * [Désendettement de Spring Cloud Netflix](https://javaetmoi.com/2019/11/desendettement-de-spring-cloud-netflix/) - french (Antoine Rey)
+
+# Java ecosystem
+
+* [GraalVM 21.3.0 used spring-petclinic-data-jdbc to bench image size and image build time](https://www.graalvm.org/release-notes/21_3/) (GraalVM release note)
