@@ -8,7 +8,7 @@ indent: false
 
 * [Official Spring PetClinic documentation](http://projects.spring.io/spring-petclinic/) with a 2003-2007 museum section
 * [Understanding the Spring Framework version of the Petclinic application](https://fr.slideshare.net/AntoineRey/spring-framework-petclinic-sample-application) (Michael Isvy, Antoine Rey)  
-* [Spring for GraphQL in der Praxis: Eine GraphQL-API für die Tierklinik](https://www.heise.de/hintergrund/Spring-for-GraphQL-in-der-Praxis-Eine-GraphQL-API-fuer-die-Tierklinik-7061176.html) (Nils Hartmann)
+* [Spring for GraphQL in der Praxis: Eine GraphQL-API für die Tierklinik](https://www.heise.de/hintergrund/Spring-for-GraphQL-in-der-Praxis-Eine-GraphQL-API-fuer-die-Tierklinik-7061176.html) in deutsch (Nils Hartmann)
 * [Spring for GraphQL in action: A GraphQL API for the veterinary clinic](https://california18.com/spring-for-graphql-in-action-a-graphql-api-for-the-veterinary-clinic/4304902022/) (Nils Hartmann)
 
 # Community created resources
@@ -41,6 +41,10 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 * [Memory footprint of the JVM](https://spring.io/blog/2019/03/11/memory-footprint-of-the-jvm) (Andy Wilkinson from Pivotal)
 * [Memory wasted by Spring Boot PetClinic application](https://jaxenter.com/memory-spring-boot-164620.html) (Ram Lakshmanan)
 
+## Tooling
+
+* [Spring PetClinic - OpenRewrite Technical Debt Remediation Sample](https://github.com/openrewrite/spring-petclinic-migration)
+
 ## Spring stack
 
 * [Désendettement de Spring Cloud Netflix](https://javaetmoi.com/2019/11/desendettement-de-spring-cloud-netflix/) - french (Antoine Rey)
@@ -48,3 +52,4 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 ## Java ecosystem
 
 * [GraalVM 21.3.0 used spring-petclinic-data-jdbc to bench image size and image build time](https://www.graalvm.org/release-notes/21_3/) (GraalVM release note)
+
