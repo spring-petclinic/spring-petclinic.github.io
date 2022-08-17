@@ -45,11 +45,11 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 
 * [Spring PetClinic - OpenRewrite Technical Debt Remediation Sample](https://github.com/openrewrite/spring-petclinic-migration)
 
-## Spring stack
-
-* [Désendettement de Spring Cloud Netflix](https://javaetmoi.com/2019/11/desendettement-de-spring-cloud-netflix/) - french (Antoine Rey)
-
 ## Java ecosystem
 
 * [GraalVM 21.3.0 used spring-petclinic-data-jdbc to bench image size and image build time](https://www.graalvm.org/release-notes/21_3/) (GraalVM release note)
 
+## Other technical stacks
+
+* [Désendettement de Spring Cloud Netflix](https://javaetmoi.com/2019/11/desendettement-de-spring-cloud-netflix/) - french (Antoine Rey)
+* [Migrating from SQL to NoSQL with Spring PetClinic and Apache Cassandra](https://www.datastax.com/fr/blog/migrating-from-sql-to-nosql-with-spring-petclinic-and-apache-cassandra) (David Jones-Gilardi, Cedrick Lunven, Artem Chebotko from DataStax)
