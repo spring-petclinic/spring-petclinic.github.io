@@ -22,6 +22,7 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 
 ## Cloud deployment
 
+* [Pet Clinic hosted by Azure Spring Apps](https://learn.microsoft.com/en-us/azure/spring-apps/quickstart-sample-app-introduction?tabs=basic-standard-tier&pivots=programming-language-java) (Microsoft Learn)
 * [Migrating a Java Spring Framework Application to Windows Azure](https://azure.microsoft.com/fr-fr/blog/migrating-a-java-spring-framework-application-to-windows-azure/) (Gregory Leake from Microsoft)
 * [Run Spring Pet Clinic with Cloud SQL on Google App Engine Flexible Environment](https://cloud.google.com/community/tutorials/run-spring-petclinic-on-app-engine-cloudsql) (Jisha Abubaker from Google)
 * [Spring Pet Clinic using Cloud SQL](https://codelabs.developers.google.com/codelabs/cloud-spring-petclinic-cloudsql/index.html) (Google)
