@@ -6,7 +6,6 @@ indent: false
 
 # Documentation
 
-* [Official Spring PetClinic documentation](http://projects.spring.io/spring-petclinic/) with a 2003-2007 museum section
 * [Understanding the Spring Framework version of the Petclinic application](https://fr.slideshare.net/AntoineRey/spring-framework-petclinic-sample-application) (Michael Isvy, Antoine Rey)  
 * [Spring for GraphQL in der Praxis: Eine GraphQL-API für die Tierklinik](https://www.heise.de/hintergrund/Spring-for-GraphQL-in-der-Praxis-Eine-GraphQL-API-fuer-die-Tierklinik-7061176.html) in deutsch (Nils Hartmann)
 * [Spring for GraphQL in action: A GraphQL API for the veterinary clinic](https://california18.com/spring-for-graphql-in-action-a-graphql-api-for-the-veterinary-clinic/4304902022/) (Nils Hartmann)
