@@ -28,11 +28,13 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 * [Spring into Kubernetes - Part 1](https://tech.paulcz.net/blog/spring-into-kubernetes-part-1/) (Paul Czarkowski from IBM)
 * [Spring into Kubernetes - Deploying with Helm](https://tech.paulcz.net/blog/spring-into-kubernetes-part-2/) (Paul Czarkowski from IBM)
 * [Spring Cloud Microservices on Kubernetes the easy way with Platform9](https://platform9.com/blog/spring-cloud-microservices-on-kubernetes-the-easy-way-with-platform9/) (David Dieruf from Platform9)
+* [Connecting a Spring Boot Application to YugabyteDB Managed and Deploying It on Google Kubernetes Engine (GKE)](https://www.yugabyte.com/blog/connecting-a-spring-boot-application-to-yugabyte-cloud-and-deploying-it-on-google-kubernetes-engine-gke/) (Suda Srinivasan from Yugabyte DB)
 
 ## Application Performance Management (APM)
 
 * [AppDynamics: Java Spring PetClinic and MySQL configured for monitoring](https://fabianlee.org/2017/01/15/appdynamics-java-spring-petclinic-and-mysql-configured-for-monitoring/) (Fabian Lee)
 * [Usage of inspectT in Spring PetClinic Microservices](https://inspectit-performance.atlassian.net/wiki/spaces/DOC18/pages/93008976/Spring+PetClinic+Microservices) (Christian Vögele)
+* [Monitor your Spring Boot application with OpenTelemetry and SigNoz](https://signoz.io/blog/opentelemetry-spring-boot/) (Ankit Anand from Signoz)
 
 ## Tuning
 
