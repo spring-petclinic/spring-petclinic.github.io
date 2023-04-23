@@ -47,6 +47,7 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 ## Tooling
 
 * [Spring PetClinic - OpenRewrite Technical Debt Remediation Sample](https://github.com/openrewrite/spring-petclinic-migration)
+* [Dynamic Application Security Testing Using OWASP ZAP](https://www.opensourceforu.com/2023/04/dynamic-application-security-testing-using-owasp-zap/) (Mitesh Soni)
 
 ## Java ecosystem
 
