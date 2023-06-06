@@ -31,6 +31,7 @@ All forks are centralized to the special GitHub org [spring-petclinic](https://g
 |[spring-petclinic-vaadin-fusion] | ![stars](https://img.shields.io/github/stars/spring-petclinic/spring-petclinic-vaadin-fusion.svg?style=social&label=Star) | Vaadin Fusion implementation of the Spring PetClinic sample including Reactive TypeScript frontend using Lit                               | ![](../images/icon-vaadin.png)          |
 |[spring-petclinic-vaadin-flow]   | ![stars](https://img.shields.io/github/stars/spring-petclinic/spring-petclinic-vaadin-flow.svg?style=social&label=Star)   | Vaadin Flow implementation of the Spring PetClinic sample build 100% in Java without writing HTML or JavaScript                            | ![](../images/icon-vaadin.png)          |
 | [spring-petclinic-htmx]                   | ![stars](https://img.shields.io/github/stars/spring-petclinic/spring-petclinic-htmx.svg?style=social&label=Star)          | Htmx version of the Spring PetClinic sample application                                                                                    | ![](../images/htmx_logo.png)             |
+| [spring-petclinic-istio]                   | ![stars](https://img.shields.io/github/stars/eitansuez/spring-petclinic-istio.svg?style=social&label=Star)          | Spring PetClinic microservices running on Istio service mesh | ![](../images/icon-istio.png)             |
 
 
 
@@ -52,4 +53,5 @@ All forks are centralized to the special GitHub org [spring-petclinic](https://g
 [spring-petclinic-vaadin-fusion]: https://github.com/spring-petclinic/spring-petclinic-vaadin-fusion
 [spring-petclinic-vaadin-flow]: https://github.com/spring-petclinic/spring-petclinic-vaadin-flow
 [spring-petclinic-htmx]: https://github.com/spring-petclinic/spring-petclinic-htmx
+[spring-petclinic-istio]: https://github.com/eitansuez/spring-petclinic-istio
 
