@@ -1,5 +1,7 @@
-The Spring PetClinic Community web site [![Build Status](https://travis-ci.org/spring-petclinic/spring-petclinic.github.io.svg?branch=master)](https://travis-ci.org/spring-petclinic/spring-petclinic.github.io/)
+The Spring PetClinic Community web site
 =======================================
+[![Build Status](https://github.com/spring-petclinic/spring-petclinic.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/spring-petclinic/spring-petclinic.github.io/actions/workflows/pages/pages-build-deployment)
+
 
 This GitHub repository contains the Jekyll website of the Spring PetClinic community.
 It is published at [spring-petclinic.github.io](https://spring-petclinic.github.io)
