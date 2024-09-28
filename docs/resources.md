@@ -52,6 +52,10 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 * [Memory footprint of the JVM](https://spring.io/blog/2019/03/11/memory-footprint-of-the-jvm) (Andy Wilkinson from Pivotal)
 * [Memory wasted by Spring Boot PetClinic application](https://jaxenter.com/memory-spring-boot-164620.html) (Ram Lakshmanan)
 
+# AI
+
+* [AI Meets Spring Petclinic: Implementing an AI Assistant with Spring AI (Part I)](https://spring.io/blog/2024/09/26/ai-meets-spring-petclinic-implementing-an-ai-assistant-with-spring-ai-part-i) (Oded Shopen from VMWare)
+
 ## Tooling
 
 * [Spring PetClinic - OpenRewrite Technical Debt Remediation Sample](https://github.com/openrewrite/spring-petclinic-migration)
