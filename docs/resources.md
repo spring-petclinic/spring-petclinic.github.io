@@ -47,6 +47,8 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 
 ## Tuning
 
+* [Evolution of Energy Usage in Spring Boot](https://medium.com/growing-green-software/evolution-of-energy-usage-in-spring-boot-69c7c372dba3) (Mirko Stocker)
+* [Generate fake data for Spring PetClinic with Pandas and Faker](https://www.feststelltaste.de/generate-fake-data-for-spring-petclinic-with-pandas-and-faker/) (Markus Harrer)
 * [Improving the performance of the Spring-Petclinic sample application](http://blog.ippon.fr/2013/03/11/improving-the-performance-of-the-spring-petclinic-sample-application-part-1-of-5/) (Julien Dubois from Ippon)
 * [Tuning Spring Petclinic JPA and Hibernate configuration with Hypersistence Optimizer](https://vladmihalcea.com/spring-petclinic-hypersistence-optimizer/) (Vlad Mihalcea)
 * [Memory footprint of the JVM](https://spring.io/blog/2019/03/11/memory-footprint-of-the-jvm) (Andy Wilkinson from Pivotal)
