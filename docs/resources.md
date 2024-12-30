@@ -56,6 +56,7 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 
 ## AI
 
+* [Integrating a Chatbot into a Java webapp with LangChain4j](https://javaetmoi.com/2024/11/integrer-un-chatbot-dans-une-webapp-java-avec-langchain4j/) - french (Antoine Rey)
 * [AI Meets Spring Petclinic: Implementing an AI Assistant with Spring AI (Part I)](https://spring.io/blog/2024/09/26/ai-meets-spring-petclinic-implementing-an-ai-assistant-with-spring-ai-part-i) (Oded Shopen from VMWare)
 * [AI Meets Spring Petclinic: Implementing an AI Assistant with Spring AI (Part II)](https://spring.io/blog/2024/09/27/ai-meets-spring-petclinic-implementing-an-ai-assistant-with-spring-ai-part) (Oded Shopen from VMWare)
 
