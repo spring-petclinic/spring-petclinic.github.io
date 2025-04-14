@@ -3,3 +3,7 @@ _site/
 
 .idea/
 .vscode/
+
+
+# MacOS
+.DS_Store
