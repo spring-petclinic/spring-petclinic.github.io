@@ -36,6 +36,7 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 * [Working with Microservices-1: Running a Java app that consists of 10 Microservices on a Development server](https://cmakkaya.medium.com/working-with-microservices-1-running-a-java-app-that-consists-of-10-microservice-on-a-development-5de2f2b3c758) (Cumhur Akkaya)
 * [Spring Pet Clinic and the Developer Sandbox for Red Hat OpenShift](https://redhat-developer-demos.github.io/spring-petclinic/) (Redhat)
 * [Deploy a Spring Boot Kotlin application with Docker](https://docs.scaledynamics.com/blog/spring-kotlin-petclinic/) (Scale Dynamics)
+* [Deploy an AI-enabled instance of the Spring PetClinic on Azure Container Apps](https://learn.microsoft.com/en-us/azure/container-apps/java-petclinic-ai-tutorial) (Microsoft Learn)
 
 ## Application Performance Management (APM)
 
