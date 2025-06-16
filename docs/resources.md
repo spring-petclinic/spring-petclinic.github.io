@@ -78,3 +78,4 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 * [Désendettement de Spring Cloud Netflix](https://javaetmoi.com/2019/11/desendettement-de-spring-cloud-netflix/) - french (Antoine Rey)
 * [Migrating from SQL to NoSQL with Spring PetClinic and Apache Cassandra](https://www.datastax.com/fr/blog/migrating-from-sql-to-nosql-with-spring-petclinic-and-apache-cassandra) (David Jones-Gilardi, Cedrick Lunven, Artem Chebotko from DataStax)
 * [Running a Spring Boot 3.x application WAR file on Liberty](https://openliberty.io/blog/2023/06/15/running-spring-boot-3.html) (Chuck Bridgham from Open Liberty)
+* [From Spring Data JPA to jOOQ](https://javaetmoi.com/2025/06/de-spring-data-jpa-a-jooq/) - french (Antoine Rey)
