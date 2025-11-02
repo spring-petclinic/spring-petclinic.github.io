@@ -20,6 +20,7 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 * [Quickstart to shows how to run the Spring PetClinic Application in Red Hat JBoss EAP](https://developers.redhat.com/quickstarts/eap/spring-petclinic/) (Ken Krebs, Juergen Hoeller, Rob Harrop, Costin Leau, Sam Brannen, Scott Andrews)
 * [Migrating SpringBoot PetClinic REST to Quarkus](https://aytartana.wordpress.com/2020/08/26/migrating-springboot-petclinic-rest-to-quarkus/) (Jonathan Vila)
 * [Spring Petclinic under Quarkus extensions](https://javaetmoi.com/2025/04/spring-petclinic-sous-extensions-quarkus/) - french (Antoine Rey)
+* [How I write production-ready Spring Boot applications](https://www.wimdeblauwe.com/blog/2025/06/24/how-i-write-production-ready-spring-boot-applications/) (Wim Deblauwe)
 
 ## Cloud deployment
 
