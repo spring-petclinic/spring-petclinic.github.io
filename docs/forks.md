@@ -38,6 +38,7 @@ All forks are centralized to the special GitHub org [spring-petclinic](https://g
 | [spring-petclinic-jooq]                   | ![stars](https://img.shields.io/github/stars/spring-petclinic/spring-petclinic-jooq.svg?style=social&label=Star)          | Spring PetClinic application with persistence layer built with jOOQ instead of Spring Data JPA.                                                            | ![](../images/icon-jooq.png)             |
 | [spring-petclinic-modulith]               | ![stars](https://img.shields.io/github/stars/spring-petclinic/spring-petclinic-modulith.svg?style=social&label=Star)      | A modular Spring Boot app showcasing domain-driven design, event-driven architecture, and modularity with Spring Modulith, based on the PetClinic example. | ![](../images/icon-spring-modulith.png)  |
 | [spring-petclinic-flutter]                | ![stars](https://img.shields.io/github/stars/spring-petclinic/spring-petclinic-flutter.svg?style=social&label=Star)       | Flutter frontend for Spring Petclinic, supporting Android and web with the Spring Petclinic REST backend.                                                  | ![](../images/icon-flutter.png)  |
+| [spring-petclinic-terminal]               | ![stars](https://img.shields.io/github/stars/spring-petclinic/spring-petclinic-terminal.svg?style=social&label=Star)       | Terminal fork replacing the web UI with a keyboard-driven TUI, built with TamboUI.                                               | ![](../images/icon-tamboui.svg)  |
 
 [spring-petclinic]: https://github.com/spring-projects/spring-petclinic
 
@@ -88,3 +89,5 @@ All forks are centralized to the special GitHub org [spring-petclinic](https://g
 [spring-petclinic-modulith]: https://github.com/spring-petclinic/spring-petclinic-modulith
 
 [spring-petclinic-flutter]: https://github.com/spring-petclinic/spring-petclinic-flutter
+
+[spring-petclinic-terminal]: https://github.com/spring-petclinic/spring-petclinic-terminal
