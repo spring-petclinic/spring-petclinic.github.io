@@ -72,6 +72,7 @@ Blog post, tutorials, workshops, and other resources based on the Spring Pet Cli
 
 ## Java ecosystem
 
+* [JEP 545 Moves ZGC Memory Preparation off the Startup Path in JDK 28](https://www.infoq.com/news/2026/11/jep-545-jdk-28/) (A N M Bazlur Rahman - InfoQ)
 * [GraalVM 21.3.0 used spring-petclinic-data-jdbc to bench image size and image build time](https://www.graalvm.org/release-notes/21_3/) (GraalVM release note)
 * [Project Leyden: Premain - Case study: Spring Boot PetClinic](https://openjdk.org/projects/leyden/slides/leyden-premain-petclinic-2023-09-12.pdf) (Vladimir Ivanov from Oracle )
 
